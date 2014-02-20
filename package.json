@@ -1,0 +1,22 @@
+{
+  "name": "hapi-safari-bug",
+  "version": "0.0.0",
+  "description": "replicates bug using directory handler in Safari 6",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stongo/hapi-safari-bug.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stongo/hapi-safari-bug/issues"
+  },
+  "homepage": "https://github.com/stongo/hapi-safari-bug",
+  "dependencies": {
+    "hapi": "~2.4.0"
+  }
+}
